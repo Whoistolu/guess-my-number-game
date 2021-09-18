@@ -3,7 +3,7 @@
 
 ![screenshot]()
 
-## The goal of this project is to guess a secret number wchich is between (1 - 20).
+## The goal of this project is to guess a secret number wchich is between (1-20).
 ## After each guess that the player fails, the score decreases by one (1)
 
 I built this game to solidify my knowledge of:
@@ -51,6 +51,7 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - README Template and Linters Configuration by:
+![microverse](https://github.com/microverseinc)
 ![](https://img.shields.io/badge/Microverse-blueviolet)
   
 
