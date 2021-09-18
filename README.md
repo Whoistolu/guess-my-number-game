@@ -51,7 +51,7 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - README Template and Linters Configuration by:
-![microverse](https://github.com/microverseinc)
+[microverse](https://github.com/microverseinc)
 ![](https://img.shields.io/badge/Microverse-blueviolet)
   
 
